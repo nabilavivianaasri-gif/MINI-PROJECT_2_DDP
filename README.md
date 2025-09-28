@@ -85,3 +85,31 @@ log out : keluar dari program
 
 # pilihan 4 :menghapus rute
 # pilihan 5 :keluar dari program
+
+<img width="1583" height="184" alt="OUTPUT ELSE PASS" src="https://github.com/user-attachments/assets/32d92b06-bd04-4a92-a49e-cbf315fdec91" />
+
+
+# jika password atau username salah
+
+# opsi karyawan dan lihat rute
+
+
+<img width="1593" height="296" alt="OUTPUT KARYAWAN s" src="https://github.com/user-attachments/assets/f08fcf32-df5c-450d-9256-03854e7b5390" />
+
+
+
+# opsi pesan tiket
+
+<img width="1593" height="369" alt="OUTPUT KARYAWAN" src="https://github.com/user-attachments/assets/2f1cbe6b-f2e4-433c-8ccb-8f88c13ae1b6" />
+
+ 
+# output jika password dan username salah
+
+
+<img width="1521" height="251" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/5741f5ea-bb75-4d01-80b2-3c325b171266" />
+
+
+
+
+
+
